@@ -11,3 +11,7 @@ Due to the database unable to load on my computer, the website was showing error
 
 However, using the Kinematic Alpha application, I was able to see the container in which the web application was running. Based on this image, it is clear the I am able to reach the end code, however for whatever reason, the database is unable to connect on my machine.
 ![Kinematic Alpha Image](screenshots/Kinematic.JPG)
+
+
+Refer to the below results from Postman
+![Postman Image](screenshots/Postman.JPG)
